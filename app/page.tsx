@@ -234,7 +234,7 @@ export default function Home() {
       <section id="servicios" className="services">
         <div className="wrap services__inner">
           <h2 className="display display--lg display--inline services__title" data-reveal>
-            <span>QUÉ </span>
+            <span>QUE </span>
             <em>hago.</em>
           </h2>
           <div className="rows" data-reveal="rule">
